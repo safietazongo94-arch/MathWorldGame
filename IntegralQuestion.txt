@@ -1,0 +1,79 @@
+Find the integral of 3x^4 dx
+3x^5/5 + C
+x^5 + C
+12x^3 + C
+3x^4 + C
+0
+Power rule
+
+Find the integral of sin(2x) dx
+-(1/2)cos(2x) + C
+cos(2x) + C
+sin(2x) + C
+-2cos(x) + C
+0
+Reverse chain rule
+
+Find the integral of 9 sec^2(x) dx
+9 tan(x) + C
+tan(x) + C
+9 sec(x) + C
+sec^2(x) + C
+0
+Integral of sec^2(x)
+
+Find the integral of y^(-3) dy
+-1/(2y^2) + C
+-1/y + C
+1/(2y^2) + C
+y^(-2) + C
+0
+Increase exponent and divide
+
+Evaluate the integral of e^x dx
+e^x + C
+x e^x + C
+ln x + C
+1/e^x + C
+0
+Basic exponential integral
+
+Find the integral of 1/x dx
+ln|x| + C
+1/x + C
+x ln x + C
+|x| + C
+0
+Standard logarithmic integral
+
+Evaluate the integral of cos(5x) dx
+(1/5)sin(5x) + C
+sin(5x) + C
+cos(5x) + C
+5 sin(x) + C
+0
+Reverse chain rule
+
+Compute the integral of sqrt(x) dx
+(2/3)x^(3/2) + C
+x^(1/2) + C
+x^(3/2) + C
+(3/2)x^(1/2) + C
+0
+Rewrite sqrt(x) as x^(1/2)
+
+Evaluate the integral of 4/x dx
+4 ln|x| + C
+ln|x| + C
+1/x + C
+4x + C
+0
+Constant multiple rule
+
+Evaluate the integral of (2x)/(1 + x^2) dx
+ln(1 + x^2) + C
+1/(1 + x^2) + C
+2 ln x + C
+x^2 + C
+0
+u-substitution

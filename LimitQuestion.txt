@@ -1,0 +1,79 @@
+Compute lim(x→0) (x^2 - 5)
+-5
+0
+5
+Does not exist
+0
+Direct substitution
+
+Compute lim(x→2) (x^3 + 5x^2 - 7x + 1)
+15
+10
+5
+0
+0
+Substitute x = 2
+
+Compute lim(x→0) (sin x)/x
+1
+0
+Infinity
+Does not exist
+0
+Important trigonometric limit
+
+Compute lim(x→0) (cos x - 1)/x
+0
+1
+-1
+Infinity
+0
+Known limit
+
+Compute lim(x→8) (x^2 + 64)/(x + 8)
+8
+16
+4
+Does not exist
+0
+Factor numerator
+
+Compute lim(x→4) (x - 6)
+-2
+2
+0
+Does not exist
+0
+Direct evaluation
+
+Compute lim(x→6) (x + 6)/(x - 6)^2
+Infinity
+0
+-∞
+6
+0
+Denominator approaches 0
+
+Compute lim(x→7) (7 - x)/(7 - x)
+1
+0
+7
+Does not exist
+0
+Simplify expression
+
+Compute lim(x→∞) (x^2)/(x^3 + 9x^2 + 5)
+0
+1
+Infinity
+Does not exist
+0
+Higher degree in denominator
+
+Compute lim(x→-∞) (5x^3 + 4x^2)/(x - 5x^2)
+-5
+5
+0
+Infinity
+0
+Leading terms

@@ -1,0 +1,79 @@
+Differentiate f(x) = 4x^5 - 5x^4
+20x^4 - 20x^3
+5x^4 - 4x^3
+20x^5 - 5x^4
+4x^5 - 5x^4
+0
+Power rule: (x^n)' = nx^(n-1)
+
+Differentiate f(x) = e^x * sin(x)
+e^x * sin(x) + e^x * cos(x)
+e^x * cos(x)
+sin(x)
+e^x
+0
+Product rule: (fg)' = f'g + fg'
+
+Differentiate f(x) = (x^4 + 3x)^(-1)
+-(4x^3 + 3)/(x^4 + 3x)^2
+(4x^3 + 3)/(x^4 + 3x)
+-(x^4 + 3x)^2
+-4x^3 - 3
+0
+Chain rule with power −1
+
+Differentiate f(x) = cos^4(x)
+-4 cos^3(x) sin(x)
+4 cos^3(x)
+- sin(x)
+cos^3(x)
+0
+Chain rule
+
+Differentiate f(x) = x / (1 + x^2)
+(1 - x^2)/(1 + x^2)^2
+(1 + x^2)/(1 - x^2)
+x/(1 + x^2)
+1/(1 + x^2)
+0
+Quotient rule
+
+Differentiate f(x) = ln(xe^(7x))
+1/x + 7
+1/x
+7x
+e^(7x)
+0
+Log rules: ln(xe^(7x)) = ln x + 7x
+
+Differentiate f(x) = sqrt(x^2 + 8)
+x/sqrt(x^2 + 8)
+2x
+sqrt(x^2 + 8)
+1/sqrt(x^2 + 8)
+0
+Chain rule
+
+Differentiate f(x) = x - 1/x
+1 + 1/x^2
+1 - 1/x^2
+x + 1/x
+1/x^2
+0
+Rewrite 1/x as x^(-1)
+
+Differentiate f(x) = x^2 sin(3x)
+2x sin(3x) + 3x^2 cos(3x)
+2x cos(3x)
+x^2 cos(3x)
+sin(3x)
+0
+Product rule
+
+Differentiate f(x) = tan(cos(x))
+- sin(x) sec^2(cos(x))
+sec^2(x)
+tan(x)
+cos(x)
+0
+Chain rule
